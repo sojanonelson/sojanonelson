@@ -14,7 +14,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/sojxnn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sojxnn" height="30" width="40" /></a>
-<a href="https://www.youtube.com/Codexbit-" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="codexbit" height="30" width="40" /></a>
+<a href="https://www.youtube.com/Codexbit-" target="blank"><img align="center" src="https://w7.pngwing.com/pngs/1009/93/png-transparent-youtube-computer-icons-logo-youtube-angle-social-media-share-icon.png" alt="codexbit" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
