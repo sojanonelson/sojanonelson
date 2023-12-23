@@ -1,5 +1,5 @@
-[![trophy](https://github-profile-trophy.vercel.app/?sojanonelson-ma&row=2&column=3)](https://github.com/ryo-ma/github-profile-trophy)
-https://github-profile-trophy.vercel.app/?username=ryo-ma&row=2&column=3
+[![trophy](https://github-profile-trophy.vercel.app/?username=sojanonelson&row=2&column=3)](https://github.com/ryo-ma/github-profile-trophy)
+
 <h1 align="center">Hi 👋, I'm sojan</h1>
 <h3 align="center">A passionate MERN Stack developer from India</h3>
 
