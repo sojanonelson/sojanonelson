@@ -23,7 +23,7 @@ currently learning **Reactjs,React Native** - 💬 Ask me about **Android,Mern**
     />
   </a>
   
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer">
+  <a style="padding-left: 10px" href="https://expressjs.com" target="_blank" rel="noreferrer">
     <img
       src="https://i.ibb.co/K2yzJh7/express.png"
       alt="express"
@@ -31,31 +31,8 @@ currently learning **Reactjs,React Native** - 💬 Ask me about **Android,Mern**
       height="40"
     />
   </a>
-  
-  <a href="https://cloud.google.com" target="_blank" rel="noreferrer">
-    <img
-      src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg"
-      alt="gcp"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img
-      src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"
-      alt="git"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://heroku.com" target="_blank" rel="noreferrer">
-    <img
-      src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg"
-      alt="heroku"
-      width="40"
-      height="40"
-    />
-  </a>
+
+
   
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
     <img
