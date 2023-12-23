@@ -22,14 +22,7 @@ currently learning **Reactjs,React Native** - 💬 Ask me about **Android,Mern**
       height="40"
     />
   </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
-      alt="css3"
-      width="40"
-      height="40"
-    />
-  </a>
+  
   <a href="https://expressjs.com" target="_blank" rel="noreferrer">
     <img
       src="https://i.ibb.co/K2yzJh7/express.png"
@@ -38,14 +31,7 @@ currently learning **Reactjs,React Native** - 💬 Ask me about **Android,Mern**
       height="40"
     />
   </a>
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
-    <img
-      src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg"
-      alt="firebase"
-      width="40"
-      height="40"
-    />
-  </a>
+  
   <a href="https://cloud.google.com" target="_blank" rel="noreferrer">
     <img
       src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg"
@@ -70,17 +56,10 @@ currently learning **Reactjs,React Native** - 💬 Ask me about **Android,Mern**
       height="40"
     />
   </a>
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"
-      alt="linux"
-      width="40"
-      height="40"
-    />
-  </a>
+  
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
     <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"
+      src="https://i.ibb.co/yBJfHwn/mongodb.png"
       alt="mongodb"
       width="40"
       height="40"
@@ -96,7 +75,7 @@ currently learning **Reactjs,React Native** - 💬 Ask me about **Android,Mern**
   </a>
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
     <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
+      src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png"
       alt="python"
       width="40"
       height="40"
@@ -112,7 +91,7 @@ currently learning **Reactjs,React Native** - 💬 Ask me about **Android,Mern**
   </a>
   <a href="https://sass-lang.com" target="_blank" rel="noreferrer">
     <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg"
+      src="https://sass-lang.com/assets/img/styleguide/seal-color.png"
       alt="sass"
       width="40"
       height="40"
