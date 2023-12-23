@@ -2,7 +2,10 @@
 
 <h1 align="center">Hi 👋, I'm sojan</h1>
 <h3 align="center">A passionate MERN Stack developer from India</h3>
-<a hre="https://react.dev/"><img src="https://img.shields.io/badge/-ReactJs-2599ED" alt="reactjs/> </a>
+<a href="https://www.mongodb.com/"><img src="https://img.shields.io/badge/-MongoDB-47A248" alt="mongodb"/> </a>
+<a href="https://expressjs.com/"><img src="https://img.shields.io/badge/-Express-000000" alt="express"/> </a>
+<a href="https://react.dev/"><img src="https://img.shields.io/badge/-ReactJs-2599ED" alt="reactjs"/> </a>
+<a href="https://nodejs.org/en"><img src="https://img.shields.io/badge/-Node.js-339933" alt="nodejs"/> </a>
 
 - 🔭 I’m currently working on **Ecommerce mobile application** - 🌱 I’m
 currently learning **Reactjs,React Native** - 💬 Ask me about **Android,Mern** -
