@@ -2,6 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm sojan</h1>
 <h3 align="center">A passionate MERN Stack developer from India</h3>
+<img src="https://img.shields.io/badge/-ReactJs-2599ED" alt="reactjs/>
 
 - 🔭 I’m currently working on **Ecommerce mobile application** - 🌱 I’m
 currently learning **Reactjs,React Native** - 💬 Ask me about **Android,Mern** -
