@@ -7,7 +7,7 @@
 <a href="https://react.dev/"><img src="https://img.shields.io/badge/-ReactJs-2599ED" alt="reactjs"/> </a>
 <a href="https://nodejs.org/en"><img src="https://img.shields.io/badge/-Node.js-339933" alt="nodejs"/> </a>
 
-- 🔭 I’m currently working on **Ecommerce mobile application** -  💬 Ask me about **Android,Mern** -
+-💬 Ask me about **Android,Mern** -
 📫 How to reach me **sojanonelson54@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
