@@ -20,7 +20,7 @@
   <a href="https://www.youtube.com/Codexbit-" target="blank">Youtube</a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Skills on:</h3>
 <p align="left">
   
   <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
