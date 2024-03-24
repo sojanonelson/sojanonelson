@@ -12,7 +12,7 @@
 📫 How to reach me **sojanonelson54@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
-<a href="https://nodejs.org/en"><img src="https://img.shields.io/badge/Hello%20You-8A2BE2" alt="nodejs"/> </a>
+<!-- <a href="https://nodejs.org/en"><img src="https://img.shields.io/badge/Hello%20You-8A2BE2" alt="nodejs"/> </a> -->
 
 <p align="left">
   <a href="https://instagram.com/sojxnn" target="blank">Instagram</a>
