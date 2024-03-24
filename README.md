@@ -1,3 +1,4 @@
+![](https://komarev.com/ghpvc/?username=sojanonelson)
 [![trophy](https://github-profile-trophy.vercel.app/?username=sojanonelson&row=1&column=8)](https://github.com/ryo-ma/github-profile-trophy)
 
 <h1 align="center">Hi 👋, I'm sojan</h1>
