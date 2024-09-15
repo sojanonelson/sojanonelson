@@ -15,7 +15,7 @@
 
 <p align="left">
   <a href="https://instagram.com/sojxnn" target="blank">Instagram</a>
-  <a href="https://www.youtube.com/Codexbit-" target="blank">Youtube</a>
+  <a href="https://www.youtube.com/@Codexbit." target="blank">Youtube</a>
   <a href="sojanonelson54@gmail.com-" target="blank">Gmail</a>
 </p>
 
