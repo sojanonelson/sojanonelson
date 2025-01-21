@@ -1,8 +1,5 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=sojanonelson&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
 
-<h1 align="center">It's me SOJAN</h1>
-<h3 align="center">Software Developer</h3>
-
 
 📫 How to reach me **sojanonelson54@gmail.com**
 
