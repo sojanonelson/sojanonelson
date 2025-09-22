@@ -1,6 +1,3 @@
-[![trophy](https://github-profile-trophy.vercel.app/?username=sojanonelson&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
-
-
 📫 How to reach me **sojanonelson54@gmail.com**
 
 
