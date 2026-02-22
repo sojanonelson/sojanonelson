@@ -13,10 +13,6 @@
   <img src="https://komarev.com/ghpvc/?username=sojanonelson&style=for-the-badge&color=0e75b6" />
 </p>
 
----
-
-## ☕ Support My Work
-
 <p align="center">
   <a href="https://www.buymeacoffee.com/sojanonelson">
     <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-Support%20My%20Work-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" />
