@@ -1,30 +1,24 @@
-📫 How to reach me **sojanonelson54@gmail.com**
+## 📬 Connect With Me
 
-
-![](https://komarev.com/ghpvc/?username=sojanonelson)
-
-<h3 align="left">Connect with me:</h3>
-<!-- <a href="https://nodejs.org/en"><img src="https://img.shields.io/badge/Hello%20You-8A2BE2" alt="nodejs"/> </a> -->
-
-
-<p align="left">
-  <a href="https://www.youtube.com/@CodeBrotherIn" target="blank">YouTube</a>
-  <a href="sojanonelson54@gmail.com-" target="blank">Gmail</a>
+<p align="center">
+  <a href="mailto:sojanonelson54@gmail.com">
+    <img src="https://img.shields.io/badge/Email-sojanonelson54%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.youtube.com/@CodeBrotherIn" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-CodeBrotherIn-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+  </a>
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=sojanonelson&style=for-the-badge&color=0e75b6" />
+</p>
 
+---
 
+## ☕ Support My Work
 
-
-<h3 align="left">Support:</h3>
-<p>
+<p align="center">
   <a href="https://www.buymeacoffee.com/sojanonelson">
-    <img
-      align="left"
-      src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png"
-      height="50"
-      width="210"
-      alt="sojanonelson"
-  /></a>
+    <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-Support%20My%20Work-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" />
+  </a>
 </p>
-<br /><br />
